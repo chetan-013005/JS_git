@@ -1,0 +1,24 @@
+{
+  "name": "git_js",
+  "version": "1.0.0",
+  "description": "basic",
+  "main": "index.html",
+  "scripts": {
+   "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chetan-013005/JS_git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chetan-013005/JS_git/issues"
+  },
+  "homepage": "https://github.com/chetan-013005/JS_git#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
